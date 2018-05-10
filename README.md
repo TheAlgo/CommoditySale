@@ -1,3 +1,4 @@
-# tutorial-network
+# Commodity-network
 
-IBM badge tutuorial hyperledger project
+A trading platform built on hyperledger fabric using angular framework
+Work going on 
