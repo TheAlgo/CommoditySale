@@ -18,3 +18,15 @@ transaction SampleTransaction {
     --> Commodity commodity
     --> Trader newOwner
 }
+
+event TradeNotification {
+  --> Commodity commodity
+}
+
+transaction RemoveHighQuantityCommodities {
+  
+}
+
+event RemoveNotificatin {
+  --> Commodity commodity
+}
