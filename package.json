@@ -3,7 +3,7 @@
     "composer": "^0.19.4"
   },
   "name": "tutorial-network",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "IBM badge tutuorial hyperledger project",
   "scripts": {
     "prepublish": "mkdirp ./dist && composer archive create --sourceType dir --sourceName . -a ./dist/tutorial-network.bna",
